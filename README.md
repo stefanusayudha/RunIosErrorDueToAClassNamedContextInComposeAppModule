@@ -1,4 +1,5 @@
 This repository is specifically created to reproduce an error when a class in composeApp is named "Context".
+https://youtrack.jetbrains.com/issue/KT-68763/KMM-Launch-IOS-Error-when-a-class-named-Context
 
 # Problem
 When a class in composeApp is named "Context", the following error is thrown when trying to run the ios app:
