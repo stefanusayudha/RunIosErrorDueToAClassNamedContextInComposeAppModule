@@ -3,5 +3,5 @@
 class Context
 
 // Yes, this problem only occur in composeApp module.
-// In the case of multimodule project, having a class named in another module "Context" won't be a problem.
+// In the case of multimodule project, having a class named "Context" in another module won't be a problem.
 // But maybe it will if the composeAppModule is importing the suspected class.
